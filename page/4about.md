@@ -45,8 +45,10 @@ type: page
 * `[^]` fork了github:<https://github.com/Gaohaoyang/gaohaoyang>的项目，并根据博客<https://www.cnblogs.com/mo-wang/p/5117408.html>和博客<https://blog.csdn.net/xudailong_blog/article/details/78762262>完成了这个博客主题的第一版
 * `[^]` 配置了个人信息，申请了百度统计<https://tongji.baidu.com/>和谷歌分析<https://analytics.google.com/analytics/>的账户，并拿到了个人id
 * `[^]` 在_config.yml增加了comments_enabled参数，用以在涉及到评论的板块将comments.html去除，因为原作者提供的两种公开评论插件都无法使用
+* `[^]` 在_config.yml增加了future: true参数，以解决刚加入的blog无法显示的问题
 * `[+]` 增加了一些博客内容
-* `[-]` 去除了一些无关的文件内容
+* `[-]` 去除了一些无关的文件
+* `[-]` 注释了demo.html中的script代码
 
 ## 友情链接
 
