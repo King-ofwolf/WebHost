@@ -27,7 +27,8 @@ description_footer: 来自汪圣灵的博客专栏！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
-# 两种评论插件，选一个就好了，使用自己的 short_name
+# 两种评论插件，选一个就好了，使用自己的 short_name 貌似一个挂了，一个国内不能使
+comments_enabled:
 duoshuo_shortname: #hygblog
 disqus_shortname: #gaohaoyang
 

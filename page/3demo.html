@@ -28,4 +28,7 @@ type: page
 
 
 <!-- <h2 id="comments">Comments</h2> -->
+{% if site.comments_enabled %}
 {% include comments.html %}
+{% endif %}
+
