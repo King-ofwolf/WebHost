@@ -3,13 +3,12 @@ layout: post
 title:  "Ubuntu Server 16.04.1 LTS 64位使用vsftpd搭建ftp服务器"
 date:   2019-06-26 23:52:10
 categories: FTPServer
-tags: Ubuntu Server FTP
+tags: ubuntu server ftp
 excerpt: 在Ubuntu Server 16.04.1 LTS 64位中使用vsftpd搭建ftp服务器
 ---
 * content
 {:toc}
 
-# Ubuntu Server 16.04.1 LTS 64位使用vsftpd搭建ftp服务器
 
 ### 查看是否安装ftp服务器
 

@@ -3,14 +3,13 @@ layout: post
 title:  "VMware Linux 虚拟机桥接模式联网最佳配置"
 date:   2019-06-26 23:52:10
 categories: VMware 
-tags: Network Ubuntu VMware
+tags: network ubuntu vmware
 excerpt: VMware中Ubuntu虚拟机的详细桥接网络配置，共享宿主机的网络
 ---
 
 * content
 {:toc}
 
-# VMware Linux 虚拟机桥接模式联网最佳配置
 
 *此方式从另一方面解决了我的ftp服务器能连接但无法列出目录的问题*  
 *主要情况为：腾讯云ubuntu server 16.04 下基于vsftpd的ftp服务器，无防火墙的情况下，在实体机windows环境下使用浏览器、cmd、资源管理器都能进行文件操作，但在虚拟机（ubuntu 16.04，网络为NET模式）的terminal中使用ftp指令，却只能连接(230 login successful)，不能访问(200 PORT command successful. Consider using PASV. 425 Failed to establish connection.)*

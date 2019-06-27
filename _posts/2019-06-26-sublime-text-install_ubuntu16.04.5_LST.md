@@ -3,13 +3,12 @@ layout: post
 title:  "ubuntu16.04下sublime text 3之安装和配置"
 date:   2019-06-26 23:52:11
 categories: SublimeText3
-tags: Ubuntu SublimeText3
+tags: ubuntu sublimetext3
 excerpt: 在ubuntu16.04下进行sublime text 3的安装、卸载和配置，包括packagecontrol的安装
 ---
 * content
 {:toc}
 
-# ubuntu16.04下sublime text 3之安装和配置
 
 ## 安装方法
 
